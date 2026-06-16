@@ -1,0 +1,48 @@
+name: exo-pullers
+
+# Phase B (no-secret design): standalone exogenous pullers run on the PUBLIC repo's runner (unlimited
+# minutes, 16 GB — never the 2 GB app box), fetch + parse + compute THIN results, and COMMIT them to
+# exo/data/*.json via the automatic GITHUB_TOKEN (NO secret; needs repo Settings → Actions → Workflow
+# permissions = "Read and write"). The app box ingests each latest file from raw.githubusercontent.com
+# (public read, no auth) and upserts via its own existing creds. Publishes only raw public data + standard
+# textbook features; edge-ier derivations stay private (computed in the app after ingest).
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 19 * * *"     # daily ~05:00 AEST (after the T+1 ~04:30 release): gas (+ future daily feeds)
+    - cron: "30 19 * * 1"    # weekly Mon: hydro
+    - cron: "0 20 1 * *"     # monthly 1st: DER
+
+concurrency:
+  group: exo-pullers
+  cancel-in-progress: false
+
+permissions:
+  contents: write            # allows the GITHUB_TOKEN commit — this is the only "auth" used, no secret
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Run standalone pullers (each writes exo/data/<feed>.json; one failure does not stop the rest)
+        run: |
+          for s in exo/gas_pull.py; do
+            echo "::group::$s"; python "$s" || echo "WARN: $s failed (skipped)"; echo "::endgroup::"
+          done
+      - name: Commit thin files (GITHUB_TOKEN, no secret)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add exo/data/*.json
+          if git diff --cached --quiet; then
+            echo "no changes to publish"
+          else
+            git commit -m "exo: publish thin feeds [skip ci] $(date -u +%FT%TZ)"
+            git push
+          fi
