@@ -13,6 +13,7 @@ on:
     - cron: "0 */6 * * *"    # every 6h: PASA (MTPASA publishes a few times daily)
     - cron: "30 19 * * 1"    # weekly Mon: hydro
     - cron: "0 20 1 * *"     # monthly 1st: DER
+    - cron: "20 5,11,17,23 * * *"  # ~6-hourly after each GFS cycle is available: weather
 
 concurrency:
   group: exo-pullers
@@ -39,7 +40,8 @@ jobs:
             "0 */6 * * *")  P="pasa" ;;
             "30 19 * * 1")  P="hydro" ;;
             "0 20 1 * *")   P="der" ;;
-            *)              P="gas pasa hydro der battery bidstack" ;;   # manual: run all
+            "20 5,11,17,23 * * *") P="weather" ;;
+            *)              P="gas pasa hydro der battery bidstack weather" ;;   # manual: run all
           esac
           echo "pullers=$P" >> "$GITHUB_OUTPUT"; echo "pullers: $P"
       - name: Run standalone pullers (each writes exo/data/<feed>.json; one failure does not stop the rest)
