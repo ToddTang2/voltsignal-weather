@@ -1,0 +1,2 @@
+asyncpg>=0.29
+certifi>=2024.0
