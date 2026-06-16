@@ -9,7 +9,8 @@ name: exo-pullers
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 19 * * *"     # daily ~05:00 AEST (after the T+1 ~04:30 release): gas (+ future daily feeds)
+    - cron: "0 19 * * *"     # daily ~05:00 AEST (after the T+1 ~04:30 release): gas, battery, bidstack
+    - cron: "0 */6 * * *"    # every 6h: PASA (MTPASA publishes a few times daily)
     - cron: "30 19 * * 1"    # weekly Mon: hydro
     - cron: "0 20 1 * *"     # monthly 1st: DER
 
@@ -30,10 +31,23 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
+      - name: Select pullers for this schedule
+        id: sel
+        run: |
+          case "${{ github.event.schedule }}" in
+            "0 19 * * *")   P="gas battery bidstack" ;;
+            "0 */6 * * *")  P="pasa" ;;
+            "30 19 * * 1")  P="hydro" ;;
+            "0 20 1 * *")   P="der" ;;
+            *)              P="gas pasa hydro der battery bidstack" ;;   # manual: run all
+          esac
+          echo "pullers=$P" >> "$GITHUB_OUTPUT"; echo "pullers: $P"
       - name: Run standalone pullers (each writes exo/data/<feed>.json; one failure does not stop the rest)
         run: |
-          for s in exo/gas_pull.py; do
-            echo "::group::$s"; python "$s" || echo "WARN: $s failed (skipped)"; echo "::endgroup::"
+          for s in ${{ steps.sel.outputs.pullers }}; do
+            f="exo/${s}_pull.py"
+            [ -f "$f" ] || { echo "skip $f (not present)"; continue; }
+            echo "::group::$f"; python "$f" || echo "WARN: $f failed (skipped)"; echo "::endgroup::"
           done
       - name: Commit thin files (GITHUB_TOKEN, no secret)
         run: |

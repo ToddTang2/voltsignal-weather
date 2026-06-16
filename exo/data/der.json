@@ -1,0 +1,116 @@
+{
+"feed": "der",
+"generated_at_utc": "2026-06-16T16:32:52.473904+00:00",
+"rows": [
+{
+"as_at_date": "2026-05-31",
+"region_id": "NSW1",
+"tech": "rooftop_solar",
+"cumulative_capacity": 8937.29,
+"added_12m": 964.231,
+"unit": "MW",
+"publish_time_utc": "2026-06-14T00:00:00+00:00",
+"source": "CER SGU-rooftop_solar postcode capacity (as at 2026-05-31)",
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"as_at_date": "2026-05-31",
+"region_id": "VIC1",
+"tech": "rooftop_solar",
+"cumulative_capacity": 5857.479,
+"added_12m": 556.841,
+"unit": "MW",
+"publish_time_utc": "2026-06-14T00:00:00+00:00",
+"source": "CER SGU-rooftop_solar postcode capacity (as at 2026-05-31)",
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"as_at_date": "2026-05-31",
+"region_id": "QLD1",
+"tech": "rooftop_solar",
+"cumulative_capacity": 7978.638,
+"added_12m": 811.735,
+"unit": "MW",
+"publish_time_utc": "2026-06-14T00:00:00+00:00",
+"source": "CER SGU-rooftop_solar postcode capacity (as at 2026-05-31)",
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"as_at_date": "2026-05-31",
+"region_id": "SA1",
+"tech": "rooftop_solar",
+"cumulative_capacity": 3006.255,
+"added_12m": 294.915,
+"unit": "MW",
+"publish_time_utc": "2026-06-14T00:00:00+00:00",
+"source": "CER SGU-rooftop_solar postcode capacity (as at 2026-05-31)",
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"as_at_date": "2026-05-31",
+"region_id": "TAS1",
+"tech": "rooftop_solar",
+"cumulative_capacity": 421.184,
+"added_12m": 51.883,
+"unit": "MW",
+"publish_time_utc": "2026-06-14T00:00:00+00:00",
+"source": "CER SGU-rooftop_solar postcode capacity (as at 2026-05-31)",
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"as_at_date": "2026-05-31",
+"region_id": "NSW1",
+"tech": "battery",
+"cumulative_capacity": 4533.323,
+"added_12m": 4533.323,
+"unit": "MWh",
+"publish_time_utc": "2026-06-14T00:00:00+00:00",
+"source": "CER SGU-battery postcode capacity (as at 2026-05-31)",
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"as_at_date": "2026-05-31",
+"region_id": "VIC1",
+"tech": "battery",
+"cumulative_capacity": 2200.196,
+"added_12m": 2200.196,
+"unit": "MWh",
+"publish_time_utc": "2026-06-14T00:00:00+00:00",
+"source": "CER SGU-battery postcode capacity (as at 2026-05-31)",
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"as_at_date": "2026-05-31",
+"region_id": "QLD1",
+"tech": "battery",
+"cumulative_capacity": 2374.089,
+"added_12m": 2374.089,
+"unit": "MWh",
+"publish_time_utc": "2026-06-14T00:00:00+00:00",
+"source": "CER SGU-battery postcode capacity (as at 2026-05-31)",
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"as_at_date": "2026-05-31",
+"region_id": "SA1",
+"tech": "battery",
+"cumulative_capacity": 1200.144,
+"added_12m": 1200.144,
+"unit": "MWh",
+"publish_time_utc": "2026-06-14T00:00:00+00:00",
+"source": "CER SGU-battery postcode capacity (as at 2026-05-31)",
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"as_at_date": "2026-05-31",
+"region_id": "TAS1",
+"tech": "battery",
+"cumulative_capacity": 82.032,
+"added_12m": 82.032,
+"unit": "MWh",
+"publish_time_utc": "2026-06-14T00:00:00+00:00",
+"source": "CER SGU-battery postcode capacity (as at 2026-05-31)",
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+}
+]
+}

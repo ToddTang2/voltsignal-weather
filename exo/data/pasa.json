@@ -1,0 +1,3877 @@
+{
+"feed": "pasa",
+"generated_at_utc": "2026-06-16T16:32:54.019963+00:00",
+"source_file": "PUBLIC_MTPASAREGIONAVAILABILITY_202606161800_0000000522791973.zip",
+"rows": [
+{
+"valid_date": "2026-06-21",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 14913.0,
+"demand10_mw": 11433.64266,
+"demand50_mw": 11158.27387,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-21",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 12907.0,
+"demand10_mw": 8444.417947,
+"demand50_mw": 8202.522553,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-21",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3527.0,
+"demand10_mw": 2276.575446,
+"demand50_mw": 2206.235828,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-21",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1951.0,
+"demand10_mw": 1718.86254,
+"demand50_mw": 1677.937053,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-21",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10501.0,
+"demand10_mw": 7432.496933,
+"demand50_mw": 7304.64848,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-22",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 14913.0,
+"demand10_mw": 12475.31988,
+"demand50_mw": 12174.86325,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-22",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 12907.0,
+"demand10_mw": 9011.701267,
+"demand50_mw": 8753.555704,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-22",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3527.0,
+"demand10_mw": 2493.880443,
+"demand50_mw": 2416.826727,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-22",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1951.0,
+"demand10_mw": 1803.042896,
+"demand50_mw": 1760.113105,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-22",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10316.0,
+"demand10_mw": 8352.661074,
+"demand50_mw": 8208.984621,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-23",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15633.0,
+"demand10_mw": 13125.97926,
+"demand50_mw": 12809.8521,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-23",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 12784.0,
+"demand10_mw": 9250.168609,
+"demand50_mw": 8985.192006,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-23",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3527.0,
+"demand10_mw": 2734.887732,
+"demand50_mw": 2650.387586,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-23",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1951.0,
+"demand10_mw": 1854.832562,
+"demand50_mw": 1810.669678,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-23",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10316.0,
+"demand10_mw": 8947.766738,
+"demand50_mw": 8793.853707,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-24",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15633.0,
+"demand10_mw": 13125.97926,
+"demand50_mw": 12809.8521,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-24",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 12784.0,
+"demand10_mw": 9250.168609,
+"demand50_mw": 8985.192006,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-24",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3527.0,
+"demand10_mw": 2734.887732,
+"demand50_mw": 2650.387586,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-24",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1951.0,
+"demand10_mw": 1854.832562,
+"demand50_mw": 1810.669678,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-24",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10318.0,
+"demand10_mw": 8947.766738,
+"demand50_mw": 8793.853707,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-25",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15633.0,
+"demand10_mw": 13125.97926,
+"demand50_mw": 12809.8521,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-25",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 12784.0,
+"demand10_mw": 9250.168609,
+"demand50_mw": 8985.192006,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-25",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3527.0,
+"demand10_mw": 2734.887732,
+"demand50_mw": 2650.387586,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-25",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1951.0,
+"demand10_mw": 1854.832562,
+"demand50_mw": 1810.669678,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-25",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10318.0,
+"demand10_mw": 8947.766738,
+"demand50_mw": 8793.853707,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-26",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15633.0,
+"demand10_mw": 12108.56332,
+"demand50_mw": 11816.93968,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-26",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 12784.0,
+"demand10_mw": 8742.933211,
+"demand50_mw": 8492.486669,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-26",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3527.0,
+"demand10_mw": 2418.762379,
+"demand50_mw": 2344.029595,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-26",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1951.0,
+"demand10_mw": 1774.876636,
+"demand50_mw": 1732.617474,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-26",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10318.0,
+"demand10_mw": 8191.645127,
+"demand50_mw": 8050.738355,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-27",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15696.0,
+"demand10_mw": 11311.54061,
+"demand50_mw": 11039.11253,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-27",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13102.0,
+"demand10_mw": 8289.586103,
+"demand50_mw": 8052.12596,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-27",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3527.0,
+"demand10_mw": 2260.995219,
+"demand50_mw": 2191.136985,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-27",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1951.0,
+"demand10_mw": 1694.694659,
+"demand50_mw": 1654.3446,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-27",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10318.0,
+"demand10_mw": 7383.55618,
+"demand50_mw": 7256.54957,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-28",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15696.0,
+"demand10_mw": 11551.51527,
+"demand50_mw": 11273.30763,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-28",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13102.0,
+"demand10_mw": 8359.973767,
+"demand50_mw": 8120.497327,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-28",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3527.0,
+"demand10_mw": 2323.03617,
+"demand50_mw": 2251.261049,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-28",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1951.0,
+"demand10_mw": 1753.941368,
+"demand50_mw": 1712.180666,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-28",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10503.0,
+"demand10_mw": 7432.496933,
+"demand50_mw": 7304.64848,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-29",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15052.0,
+"demand10_mw": 12603.93143,
+"demand50_mw": 12300.37731,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-29",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13102.0,
+"demand10_mw": 8921.584255,
+"demand50_mw": 8666.020147,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-29",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3548.0,
+"demand10_mw": 2544.775963,
+"demand50_mw": 2466.149722,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-29",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1951.0,
+"demand10_mw": 1839.83969,
+"demand50_mw": 1796.03378,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-29",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10285.0,
+"demand10_mw": 8352.661074,
+"demand50_mw": 8208.984621,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-30",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15209.0,
+"demand10_mw": 13261.29863,
+"demand50_mw": 12941.91243,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-30",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13382.0,
+"demand10_mw": 9157.666923,
+"demand50_mw": 8895.340086,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-30",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3548.0,
+"demand10_mw": 2790.701768,
+"demand50_mw": 2704.477128,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-30",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1951.0,
+"demand10_mw": 1892.686288,
+"demand50_mw": 1847.622121,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-06-30",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10342.0,
+"demand10_mw": 8947.766738,
+"demand50_mw": 8793.853707,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-01",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15204.0,
+"demand10_mw": 13503.42469,
+"demand50_mw": 13139.74207,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-01",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13429.0,
+"demand10_mw": 9172.126274,
+"demand50_mw": 8910.214213,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-01",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3558.0,
+"demand10_mw": 2821.69725,
+"demand50_mw": 2727.136556,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-01",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1974.0,
+"demand10_mw": 1919.214695,
+"demand50_mw": 1877.263235,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-01",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10432.0,
+"demand10_mw": 9138.569104,
+"demand50_mw": 8972.218053,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-02",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15377.0,
+"demand10_mw": 13503.42469,
+"demand50_mw": 13139.74207,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-02",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13914.0,
+"demand10_mw": 9172.126274,
+"demand50_mw": 8910.214213,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-02",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3558.0,
+"demand10_mw": 2821.69725,
+"demand50_mw": 2727.136556,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-02",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1974.0,
+"demand10_mw": 1919.214695,
+"demand50_mw": 1877.263235,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-02",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10432.0,
+"demand10_mw": 9138.569104,
+"demand50_mw": 8972.218053,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-03",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15377.0,
+"demand10_mw": 12456.75234,
+"demand50_mw": 12121.25935,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-03",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13756.0,
+"demand10_mw": 8669.170347,
+"demand50_mw": 8421.620302,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-03",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3558.0,
+"demand10_mw": 2495.537595,
+"demand50_mw": 2411.907161,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-03",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1974.0,
+"demand10_mw": 1836.48346,
+"demand50_mw": 1796.340394,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-03",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10500.0,
+"demand10_mw": 8366.32394,
+"demand50_mw": 8214.030209,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-04",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15377.0,
+"demand10_mw": 11636.81076,
+"demand50_mw": 11323.40095,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-04",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13756.0,
+"demand10_mw": 8219.648063,
+"demand50_mw": 7984.934225,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-04",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3559.0,
+"demand10_mw": 2332.762664,
+"demand50_mw": 2254.587142,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-04",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1974.0,
+"demand10_mw": 1753.518327,
+"demand50_mw": 1715.188769,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-04",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10500.0,
+"demand10_mw": 7541.003286,
+"demand50_mw": 7403.733019,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-05",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15377.0,
+"demand10_mw": 11882.44867,
+"demand50_mw": 11562.42318,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-05",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13756.0,
+"demand10_mw": 8373.173613,
+"demand50_mw": 8134.075819,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-05",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3606.0,
+"demand10_mw": 2278.372309,
+"demand50_mw": 2202.019515,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-05",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1974.0,
+"demand10_mw": 1725.169335,
+"demand50_mw": 1687.459447,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-05",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10500.0,
+"demand10_mw": 7745.905769,
+"demand50_mw": 7604.905624,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-06",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15377.0,
+"demand10_mw": 12965.01496,
+"demand50_mw": 12615.83312,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-06",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 14109.0,
+"demand10_mw": 8935.670846,
+"demand50_mw": 8680.510822,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-06",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3597.0,
+"demand10_mw": 2495.848821,
+"demand50_mw": 2412.207956,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-06",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1974.0,
+"demand10_mw": 1809.658562,
+"demand50_mw": 1770.101853,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-06",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10500.0,
+"demand10_mw": 8704.87081,
+"demand50_mw": 8546.414448,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-07",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15377.0,
+"demand10_mw": 13641.21474,
+"demand50_mw": 13273.82107,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-07",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 14145.0,
+"demand10_mw": 9172.126274,
+"demand50_mw": 8910.214213,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-07",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3597.0,
+"demand10_mw": 2737.046333,
+"demand50_mw": 2645.322459,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-07",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1974.0,
+"demand10_mw": 1861.638254,
+"demand50_mw": 1820.945338,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-07",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10500.0,
+"demand10_mw": 9325.070514,
+"demand50_mw": 9155.324544,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-08",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15377.0,
+"demand10_mw": 13641.21474,
+"demand50_mw": 13273.82107,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-08",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 14145.0,
+"demand10_mw": 9172.126274,
+"demand50_mw": 8910.214213,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-08",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3597.0,
+"demand10_mw": 2737.046333,
+"demand50_mw": 2645.322459,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-08",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1974.0,
+"demand10_mw": 1861.638254,
+"demand50_mw": 1820.945338,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-08",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10729.0,
+"demand10_mw": 9325.070514,
+"demand50_mw": 9155.324544,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-09",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15377.0,
+"demand10_mw": 13641.21474,
+"demand50_mw": 13273.82107,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-09",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 14145.0,
+"demand10_mw": 9172.126274,
+"demand50_mw": 8910.214213,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-09",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3597.0,
+"demand10_mw": 2737.046333,
+"demand50_mw": 2645.322459,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-09",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1974.0,
+"demand10_mw": 1861.638254,
+"demand50_mw": 1820.945338,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-09",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10729.0,
+"demand10_mw": 9325.070514,
+"demand50_mw": 9155.324544,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-10",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15377.0,
+"demand10_mw": 12583.86206,
+"demand50_mw": 12244.94567,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-10",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 14145.0,
+"demand10_mw": 8669.170347,
+"demand50_mw": 8421.620302,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-10",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3597.0,
+"demand10_mw": 2420.671467,
+"demand50_mw": 2339.549946,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-10",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1974.0,
+"demand10_mw": 1781.388956,
+"demand50_mw": 1742.450183,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-10",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10729.0,
+"demand10_mw": 8537.065245,
+"demand50_mw": 8381.663479,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-11",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15377.0,
+"demand10_mw": 11755.55373,
+"demand50_mw": 11438.94585,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-11",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 14145.0,
+"demand10_mw": 8219.648063,
+"demand50_mw": 7984.934225,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-11",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3606.0,
+"demand10_mw": 2262.779784,
+"demand50_mw": 2186.949527,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-11",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2001.0,
+"demand10_mw": 1700.912778,
+"demand50_mw": 1663.733106,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-11",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10729.0,
+"demand10_mw": 7694.901313,
+"demand50_mw": 7554.829611,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-12",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15427.0,
+"demand10_mw": 12002.47341,
+"demand50_mw": 11679.21534,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-12",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 14358.0,
+"demand10_mw": 8204.018591,
+"demand50_mw": 7969.751055,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-12",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3606.0,
+"demand10_mw": 2278.372309,
+"demand50_mw": 2202.019515,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-12",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2001.0,
+"demand10_mw": 1707.384084,
+"demand50_mw": 1670.062958,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-12",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10729.0,
+"demand10_mw": 7668.446712,
+"demand50_mw": 7528.856568,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-13",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15427.0,
+"demand10_mw": 13095.9747,
+"demand50_mw": 12743.26578,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-13",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 14358.0,
+"demand10_mw": 8755.152243,
+"demand50_mw": 8505.146967,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-13",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3606.0,
+"demand10_mw": 2495.848821,
+"demand50_mw": 2412.207956,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-13",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2014.0,
+"demand10_mw": 1791.002288,
+"demand50_mw": 1751.85338,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-13",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10634.0,
+"demand10_mw": 8617.822102,
+"demand50_mw": 8460.950304,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-14",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15427.0,
+"demand10_mw": 13779.00478,
+"demand50_mw": 13407.90007,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-14",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 14358.0,
+"demand10_mw": 8986.830793,
+"demand50_mw": 8730.209885,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-14",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3606.0,
+"demand10_mw": 2737.046333,
+"demand50_mw": 2645.322459,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-14",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2030.0,
+"demand10_mw": 1842.446107,
+"demand50_mw": 1802.172706,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-14",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10634.0,
+"demand10_mw": 9231.819809,
+"demand50_mw": 9063.771298,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-15",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15427.0,
+"demand10_mw": 13779.00478,
+"demand50_mw": 13407.90007,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-15",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 14358.0,
+"demand10_mw": 8986.830793,
+"demand50_mw": 8730.209885,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-15",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3606.0,
+"demand10_mw": 2737.046333,
+"demand50_mw": 2645.322459,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-15",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2033.0,
+"demand10_mw": 1842.446107,
+"demand50_mw": 1802.172706,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-15",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10634.0,
+"demand10_mw": 9231.819809,
+"demand50_mw": 9063.771298,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-16",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15427.0,
+"demand10_mw": 13779.00478,
+"demand50_mw": 13407.90007,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-16",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 14358.0,
+"demand10_mw": 8986.830793,
+"demand50_mw": 8730.209885,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-16",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3606.0,
+"demand10_mw": 2737.046333,
+"demand50_mw": 2645.322459,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-16",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2058.0,
+"demand10_mw": 1842.446107,
+"demand50_mw": 1802.172706,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-16",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10634.0,
+"demand10_mw": 9231.819809,
+"demand50_mw": 9063.771298,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-17",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15427.0,
+"demand10_mw": 12710.97178,
+"demand50_mw": 12368.63199,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-17",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13608.0,
+"demand10_mw": 8494.035592,
+"demand50_mw": 8251.486558,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-17",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3606.0,
+"demand10_mw": 2420.671467,
+"demand50_mw": 2339.549946,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-17",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2058.0,
+"demand10_mw": 1763.024121,
+"demand50_mw": 1724.486779,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-17",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10634.0,
+"demand10_mw": 8451.694592,
+"demand50_mw": 8297.846844,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-18",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15893.0,
+"demand10_mw": 11874.29669,
+"demand50_mw": 11554.49076,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-18",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13664.0,
+"demand10_mw": 8053.594567,
+"demand50_mw": 7823.622423,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-18",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3606.0,
+"demand10_mw": 2262.779784,
+"demand50_mw": 2186.949527,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-18",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2058.0,
+"demand10_mw": 1683.377594,
+"demand50_mw": 1646.581218,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-18",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10729.0,
+"demand10_mw": 7617.9523,
+"demand50_mw": 7479.281315,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-19",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16071.0,
+"demand10_mw": 11642.3992,
+"demand50_mw": 11328.83888,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-19",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13608.0,
+"demand10_mw": 8034.863568,
+"demand50_mw": 7805.426291,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-19",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3606.0,
+"demand10_mw": 2325.349057,
+"demand50_mw": 2247.42198,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-19",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2058.0,
+"demand10_mw": 1742.954586,
+"demand50_mw": 1704.855936,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-19",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10729.0,
+"demand10_mw": 7668.446712,
+"demand50_mw": 7528.856568,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-20",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15750.0,
+"demand10_mw": 12703.09546,
+"demand50_mw": 12360.96781,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-20",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13608.0,
+"demand10_mw": 8574.63364,
+"demand50_mw": 8329.783112,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-20",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3606.0,
+"demand10_mw": 2547.309621,
+"demand50_mw": 2461.944203,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-20",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2058.0,
+"demand10_mw": 1828.314836,
+"demand50_mw": 1788.350326,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-20",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10879.0,
+"demand10_mw": 8617.822102,
+"demand50_mw": 8460.950304,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-21",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16080.0,
+"demand10_mw": 13365.63464,
+"demand50_mw": 13005.66307,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-21",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13574.0,
+"demand10_mw": 8801.535313,
+"demand50_mw": 8550.205558,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-21",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3606.0,
+"demand10_mw": 2793.480278,
+"demand50_mw": 2699.865191,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-21",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2058.0,
+"demand10_mw": 1880.830401,
+"demand50_mw": 1839.717971,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-21",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10879.0,
+"demand10_mw": 9231.819809,
+"demand50_mw": 9063.771298,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-22",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16080.0,
+"demand10_mw": 13365.63464,
+"demand50_mw": 13005.66307,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-22",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13574.0,
+"demand10_mw": 8801.535313,
+"demand50_mw": 8550.205558,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-22",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3606.0,
+"demand10_mw": 2793.480278,
+"demand50_mw": 2699.865191,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-22",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2058.0,
+"demand10_mw": 1880.830401,
+"demand50_mw": 1839.717971,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-22",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10879.0,
+"demand10_mw": 9231.819809,
+"demand50_mw": 9063.771298,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-23",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16080.0,
+"demand10_mw": 13365.63464,
+"demand50_mw": 13005.66307,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-23",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13574.0,
+"demand10_mw": 8801.535313,
+"demand50_mw": 8550.205558,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-23",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3606.0,
+"demand10_mw": 2793.480278,
+"demand50_mw": 2699.865191,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-23",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2058.0,
+"demand10_mw": 1880.830401,
+"demand50_mw": 1839.717971,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-23",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10879.0,
+"demand10_mw": 9231.819809,
+"demand50_mw": 9063.771298,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-24",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16080.0,
+"demand10_mw": 12329.64262,
+"demand50_mw": 11997.57303,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-24",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13939.0,
+"demand10_mw": 8318.900838,
+"demand50_mw": 8081.352815,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-24",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3606.0,
+"demand10_mw": 2470.582219,
+"demand50_mw": 2387.788089,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-24",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2073.0,
+"demand10_mw": 1799.753791,
+"demand50_mw": 1760.413587,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-24",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10923.0,
+"demand10_mw": 8451.694592,
+"demand50_mw": 8297.846844,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-25",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16080.0,
+"demand10_mw": 11518.06779,
+"demand50_mw": 11207.85604,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-25",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13995.0,
+"demand10_mw": 7887.541071,
+"demand50_mw": 7662.31062,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-25",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3606.0,
+"demand10_mw": 2309.435038,
+"demand50_mw": 2232.04127,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-25",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2073.0,
+"demand10_mw": 1718.447961,
+"demand50_mw": 1680.884993,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-25",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10923.0,
+"demand10_mw": 7617.9523,
+"demand50_mw": 7479.281315,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-26",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16080.0,
+"demand10_mw": 11642.3992,
+"demand50_mw": 11328.83888,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-26",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13995.0,
+"demand10_mw": 8119.441079,
+"demand50_mw": 7887.588673,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-26",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3606.0,
+"demand10_mw": 2278.372309,
+"demand50_mw": 2202.019515,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-26",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2073.0,
+"demand10_mw": 1725.169335,
+"demand50_mw": 1687.459447,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-26",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10923.0,
+"demand10_mw": 7590.987654,
+"demand50_mw": 7452.807512,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-27",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15780.0,
+"demand10_mw": 12703.09546,
+"demand50_mw": 12360.96781,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-27",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13995.0,
+"demand10_mw": 8664.892942,
+"demand50_mw": 8417.465039,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-27",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3606.0,
+"demand10_mw": 2495.848821,
+"demand50_mw": 2412.207956,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-27",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2073.0,
+"demand10_mw": 1809.658562,
+"demand50_mw": 1770.101853,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-27",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10923.0,
+"demand10_mw": 8530.773394,
+"demand50_mw": 8375.486159,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-28",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15780.0,
+"demand10_mw": 13365.63464,
+"demand50_mw": 13005.66307,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-28",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13995.0,
+"demand10_mw": 8894.183053,
+"demand50_mw": 8640.207722,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-28",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3606.0,
+"demand10_mw": 2737.046333,
+"demand50_mw": 2645.322459,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-28",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2073.0,
+"demand10_mw": 1861.638254,
+"demand50_mw": 1820.945338,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-28",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10768.0,
+"demand10_mw": 9138.569104,
+"demand50_mw": 8972.218053,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-29",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15780.0,
+"demand10_mw": 13365.63464,
+"demand50_mw": 13005.66307,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-29",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13995.0,
+"demand10_mw": 8894.183053,
+"demand50_mw": 8640.207722,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-29",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3606.0,
+"demand10_mw": 2737.046333,
+"demand50_mw": 2645.322459,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-29",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2073.0,
+"demand10_mw": 1861.638254,
+"demand50_mw": 1820.945338,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-29",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10768.0,
+"demand10_mw": 9138.569104,
+"demand50_mw": 8972.218053,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-30",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15780.0,
+"demand10_mw": 13365.63464,
+"demand50_mw": 13005.66307,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-30",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13995.0,
+"demand10_mw": 8894.183053,
+"demand50_mw": 8640.207722,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-30",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3606.0,
+"demand10_mw": 2737.046333,
+"demand50_mw": 2645.322459,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-30",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2073.0,
+"demand10_mw": 1861.638254,
+"demand50_mw": 1820.945338,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-30",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10768.0,
+"demand10_mw": 9138.569104,
+"demand50_mw": 8972.218053,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-31",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15780.0,
+"demand10_mw": 12329.64262,
+"demand50_mw": 11997.57303,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-31",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13857.0,
+"demand10_mw": 8406.468215,
+"demand50_mw": 8166.419687,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-31",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3606.0,
+"demand10_mw": 2420.671467,
+"demand50_mw": 2339.549946,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-31",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2073.0,
+"demand10_mw": 1781.388956,
+"demand50_mw": 1742.450183,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-07-31",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10768.0,
+"demand10_mw": 8366.32394,
+"demand50_mw": 8214.030209,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-01",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15827.0,
+"demand10_mw": 11518.06779,
+"demand50_mw": 11207.85604,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-01",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13855.0,
+"demand10_mw": 7970.567819,
+"demand50_mw": 7742.966521,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-01",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3669.0,
+"demand10_mw": 2262.779784,
+"demand50_mw": 2186.949527,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-01",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1700.912778,
+"demand50_mw": 1663.733106,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-01",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 11008.0,
+"demand10_mw": 7541.003286,
+"demand50_mw": 7403.733019,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-02",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15654.0,
+"demand10_mw": 11402.34973,
+"demand50_mw": 11095.25457,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-02",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13855.0,
+"demand10_mw": 8034.863568,
+"demand50_mw": 7805.426291,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-02",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3669.0,
+"demand10_mw": 2254.883934,
+"demand50_mw": 2179.318283,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-02",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1707.384084,
+"demand50_mw": 1670.062958,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-02",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 11008.0,
+"demand10_mw": 7590.987654,
+"demand50_mw": 7452.807512,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-03",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15654.0,
+"demand10_mw": 12441.17597,
+"demand50_mw": 12106.10249,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-03",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13855.0,
+"demand10_mw": 8574.63364,
+"demand50_mw": 8329.783112,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-03",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3669.0,
+"demand10_mw": 2470.118421,
+"demand50_mw": 2387.339833,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-03",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1791.002288,
+"demand50_mw": 1751.85338,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-03",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10860.0,
+"demand10_mw": 8530.773394,
+"demand50_mw": 8375.486159,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-04",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15654.0,
+"demand10_mw": 13090.05455,
+"demand50_mw": 12737.50507,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-04",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13755.0,
+"demand10_mw": 8801.535313,
+"demand50_mw": 8550.205558,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-04",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3669.0,
+"demand10_mw": 2708.82936,
+"demand50_mw": 2618.051094,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-04",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1842.446107,
+"demand50_mw": 1802.172706,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-04",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10860.0,
+"demand10_mw": 9138.569104,
+"demand50_mw": 8972.218053,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-05",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15654.0,
+"demand10_mw": 13090.05455,
+"demand50_mw": 12737.50507,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-05",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13755.0,
+"demand10_mw": 8801.535313,
+"demand50_mw": 8550.205558,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-05",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3686.0,
+"demand10_mw": 2708.82936,
+"demand50_mw": 2618.051094,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-05",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1842.446107,
+"demand50_mw": 1802.172706,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-05",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10860.0,
+"demand10_mw": 9138.569104,
+"demand50_mw": 8972.218053,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-06",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15654.0,
+"demand10_mw": 13090.05455,
+"demand50_mw": 12737.50507,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-06",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13781.0,
+"demand10_mw": 8801.535313,
+"demand50_mw": 8550.205558,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-06",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3686.0,
+"demand10_mw": 2708.82936,
+"demand50_mw": 2618.051094,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-06",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1842.446107,
+"demand50_mw": 1802.172706,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-06",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10955.0,
+"demand10_mw": 9138.569104,
+"demand50_mw": 8972.218053,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-07",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15654.0,
+"demand10_mw": 12075.42319,
+"demand50_mw": 11750.20039,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-07",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13781.0,
+"demand10_mw": 8318.900838,
+"demand50_mw": 8081.352815,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-07",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3686.0,
+"demand10_mw": 2395.716091,
+"demand50_mw": 2315.430874,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-07",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1763.024121,
+"demand50_mw": 1724.486779,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-07",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10955.0,
+"demand10_mw": 8366.32394,
+"demand50_mw": 8214.030209,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-08",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16097.0,
+"demand10_mw": 11280.58186,
+"demand50_mw": 10976.76622,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-08",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13436.0,
+"demand10_mw": 7887.541071,
+"demand50_mw": 7662.31062,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-08",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3686.0,
+"demand10_mw": 2239.452158,
+"demand50_mw": 2164.403656,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-08",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1683.377594,
+"demand50_mw": 1646.581218,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-08",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10955.0,
+"demand10_mw": 7541.003286,
+"demand50_mw": 7403.733019,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-09",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16448.0,
+"demand10_mw": 11162.30027,
+"demand50_mw": 10861.67026,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-09",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13436.0,
+"demand10_mw": 7865.708546,
+"demand50_mw": 7641.101527,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-09",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3686.0,
+"demand10_mw": 2254.883934,
+"demand50_mw": 2179.318283,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-09",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1654.028331,
+"demand50_mw": 1617.87349,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-09",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10955.0,
+"demand10_mw": 7513.528596,
+"demand50_mw": 7376.758456,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-10",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16448.0,
+"demand10_mw": 12179.25648,
+"demand50_mw": 11851.23717,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-10",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13416.0,
+"demand10_mw": 8394.115037,
+"demand50_mw": 8154.419257,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-10",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3686.0,
+"demand10_mw": 2470.118421,
+"demand50_mw": 2387.339833,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-10",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1735.033467,
+"demand50_mw": 1697.107962,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-10",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10911.0,
+"demand10_mw": 8443.724686,
+"demand50_mw": 8290.022015,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-11",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16448.0,
+"demand10_mw": 12814.47445,
+"demand50_mw": 12469.34706,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-11",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13416.0,
+"demand10_mw": 8616.239833,
+"demand50_mw": 8370.20123,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-11",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3686.0,
+"demand10_mw": 2708.82936,
+"demand50_mw": 2618.051094,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-11",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1784.869666,
+"demand50_mw": 1745.854809,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-11",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10911.0,
+"demand10_mw": 9045.318399,
+"demand50_mw": 8880.664807,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-12",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16448.0,
+"demand10_mw": 12814.47445,
+"demand50_mw": 12469.34706,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-12",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13416.0,
+"demand10_mw": 7850.321564,
+"demand50_mw": 7626.153924,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-12",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3686.0,
+"demand10_mw": 2708.82936,
+"demand50_mw": 2618.051094,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-12",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1784.869666,
+"demand50_mw": 1745.854809,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-12",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10911.0,
+"demand10_mw": 9045.318399,
+"demand50_mw": 8880.664807,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-13",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16448.0,
+"demand10_mw": 12814.47445,
+"demand50_mw": 12469.34706,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-13",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13416.0,
+"demand10_mw": 8616.239833,
+"demand50_mw": 8370.20123,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-13",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3686.0,
+"demand10_mw": 2708.82936,
+"demand50_mw": 2618.051094,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-13",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1784.869666,
+"demand50_mw": 1745.854809,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-13",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10911.0,
+"demand10_mw": 9045.318399,
+"demand50_mw": 8880.664807,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-14",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16448.0,
+"demand10_mw": 11821.20375,
+"demand50_mw": 11502.82775,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-14",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13416.0,
+"demand10_mw": 8143.766083,
+"demand50_mw": 7911.219072,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-14",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3686.0,
+"demand10_mw": 2395.716091,
+"demand50_mw": 2315.430874,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-14",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1707.929618,
+"demand50_mw": 1670.596567,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-14",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10911.0,
+"demand10_mw": 8280.953288,
+"demand50_mw": 8130.213575,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-15",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16448.0,
+"demand10_mw": 11043.09593,
+"demand50_mw": 10745.67641,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-15",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13436.0,
+"demand10_mw": 7721.487575,
+"demand50_mw": 7500.998818,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-15",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3686.0,
+"demand10_mw": 2239.452158,
+"demand50_mw": 2164.403656,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-15",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1630.772045,
+"demand50_mw": 1595.125555,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-15",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10571.0,
+"demand10_mw": 7464.054273,
+"demand50_mw": 7328.184723,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-16",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16448.0,
+"demand10_mw": 11282.325,
+"demand50_mw": 10978.46242,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-16",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13271.0,
+"demand10_mw": 7865.708546,
+"demand50_mw": 7641.101527,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-16",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3686.0,
+"demand10_mw": 2325.349057,
+"demand50_mw": 2247.42198,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-16",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1707.384084,
+"demand50_mw": 1670.062958,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-16",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10571.0,
+"demand10_mw": 7513.528596,
+"demand50_mw": 7376.758456,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-17",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16448.0,
+"demand10_mw": 12310.21622,
+"demand50_mw": 11978.66983,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-17",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13251.0,
+"demand10_mw": 8394.115037,
+"demand50_mw": 8154.419257,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-17",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3657.0,
+"demand10_mw": 2547.309621,
+"demand50_mw": 2461.944203,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-17",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1791.002288,
+"demand50_mw": 1751.85338,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-17",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10476.0,
+"demand10_mw": 8443.724686,
+"demand50_mw": 8290.022015,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-18",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16448.0,
+"demand10_mw": 12952.2645,
+"demand50_mw": 12603.42606,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-18",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13251.0,
+"demand10_mw": 8616.239833,
+"demand50_mw": 8370.20123,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-18",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3657.0,
+"demand10_mw": 2793.480278,
+"demand50_mw": 2699.865191,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-18",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1842.446107,
+"demand50_mw": 1802.172706,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-18",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10615.0,
+"demand10_mw": 9045.318399,
+"demand50_mw": 8880.664807,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-19",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16448.0,
+"demand10_mw": 12952.2645,
+"demand50_mw": 12603.42606,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-19",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13271.0,
+"demand10_mw": 8616.239833,
+"demand50_mw": 8370.20123,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-19",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3657.0,
+"demand10_mw": 2793.480278,
+"demand50_mw": 2699.865191,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-19",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1842.446107,
+"demand50_mw": 1802.172706,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-19",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10615.0,
+"demand10_mw": 9045.318399,
+"demand50_mw": 8880.664807,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-20",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16448.0,
+"demand10_mw": 12952.2645,
+"demand50_mw": 12603.42606,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-20",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13271.0,
+"demand10_mw": 8616.239833,
+"demand50_mw": 8370.20123,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-20",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3657.0,
+"demand10_mw": 2793.480278,
+"demand50_mw": 2699.865191,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-20",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1842.446107,
+"demand50_mw": 1802.172706,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-20",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10955.0,
+"demand10_mw": 9045.318399,
+"demand50_mw": 8880.664807,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-21",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16448.0,
+"demand10_mw": 11948.31347,
+"demand50_mw": 11626.51407,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-21",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 12946.0,
+"demand10_mw": 8143.766083,
+"demand50_mw": 7911.219072,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-21",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3657.0,
+"demand10_mw": 2470.582219,
+"demand50_mw": 2387.788089,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-21",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1763.024121,
+"demand50_mw": 1724.486779,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-21",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10955.0,
+"demand10_mw": 8280.953288,
+"demand50_mw": 8130.213575,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-22",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16448.0,
+"demand10_mw": 11161.83889,
+"demand50_mw": 10861.22131,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-22",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13311.0,
+"demand10_mw": 7721.487575,
+"demand50_mw": 7500.998818,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-22",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3666.0,
+"demand10_mw": 2309.435038,
+"demand50_mw": 2232.04127,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-22",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1683.377594,
+"demand50_mw": 1646.581218,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-22",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10805.0,
+"demand10_mw": 7464.054273,
+"demand50_mw": 7328.184723,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-23",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16448.0,
+"demand10_mw": 10922.2508,
+"demand50_mw": 10628.08596,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-23",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13476.0,
+"demand10_mw": 7611.976012,
+"demand50_mw": 7394.614381,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-23",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3666.0,
+"demand10_mw": 2113.953689,
+"demand50_mw": 2043.11089,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-23",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1671.813582,
+"demand50_mw": 1635.269979,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-23",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10805.0,
+"demand10_mw": 7203.692365,
+"demand50_mw": 7072.562231,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-24",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16448.0,
+"demand10_mw": 11917.33698,
+"demand50_mw": 11596.37186,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-24",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13476.0,
+"demand10_mw": 8123.337133,
+"demand50_mw": 7891.373474,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-24",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3666.0,
+"demand10_mw": 2315.736019,
+"demand50_mw": 2238.131094,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-24",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1753.689741,
+"demand50_mw": 1715.356435,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-24",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10805.0,
+"demand10_mw": 8095.529853,
+"demand50_mw": 7948.165437,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-25",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16448.0,
+"demand10_mw": 12538.89435,
+"demand50_mw": 12201.18906,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-25",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 12781.0,
+"demand10_mw": 8338.296612,
+"demand50_mw": 8100.194739,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-25",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3666.0,
+"demand10_mw": 2539.527525,
+"demand50_mw": 2454.4229,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-25",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1804.061813,
+"demand50_mw": 1764.627441,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-25",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10805.0,
+"demand10_mw": 8672.315578,
+"demand50_mw": 8514.451826,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-26",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16448.0,
+"demand10_mw": 12538.89435,
+"demand50_mw": 12201.18906,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-26",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 12781.0,
+"demand10_mw": 8338.296612,
+"demand50_mw": 8100.194739,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-26",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3666.0,
+"demand10_mw": 2539.527525,
+"demand50_mw": 2454.4229,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-26",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1804.061813,
+"demand50_mw": 1764.627441,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-26",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10805.0,
+"demand10_mw": 8672.315578,
+"demand50_mw": 8514.451826,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-27",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16448.0,
+"demand10_mw": 12538.89435,
+"demand50_mw": 12201.18906,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-27",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 12781.0,
+"demand10_mw": 8338.296612,
+"demand50_mw": 8100.194739,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-27",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3666.0,
+"demand10_mw": 2539.527525,
+"demand50_mw": 2454.4229,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-27",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1804.061813,
+"demand50_mw": 1764.627441,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-27",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10805.0,
+"demand10_mw": 8672.315578,
+"demand50_mw": 8514.451826,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-28",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 16448.0,
+"demand10_mw": 11566.98432,
+"demand50_mw": 11255.45511,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-28",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13041.0,
+"demand10_mw": 7881.063952,
+"demand50_mw": 7656.018456,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-28",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3666.0,
+"demand10_mw": 2245.983836,
+"demand50_mw": 2170.716445,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-28",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1726.294452,
+"demand50_mw": 1688.559971,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-28",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10805.0,
+"demand10_mw": 7939.470678,
+"demand50_mw": 7794.947035,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-29",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15728.0,
+"demand10_mw": 10805.60999,
+"demand50_mw": 10514.58659,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-29",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13041.0,
+"demand10_mw": 7472.40733,
+"demand50_mw": 7259.031114,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-29",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3666.0,
+"demand10_mw": 2099.486398,
+"demand50_mw": 2029.128427,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-29",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1648.307228,
+"demand50_mw": 1612.277442,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-29",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10805.0,
+"demand10_mw": 7156.258221,
+"demand50_mw": 7025.991539,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-30",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15728.0,
+"demand10_mw": 10864.23577,
+"demand50_mw": 10141.18348,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-30",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13326.0,
+"demand10_mw": 7835.188492,
+"demand50_mw": 7585.295554,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-30",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3632.0,
+"demand10_mw": 2002.397422,
+"demand50_mw": 1937.709541,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-30",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1631.278174,
+"demand50_mw": 1594.4218,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-30",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10805.0,
+"demand10_mw": 6934.835399,
+"demand50_mw": 6648.521988,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-31",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 15081.0,
+"demand10_mw": 11854.03642,
+"demand50_mw": 11065.10948,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-31",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13289.0,
+"demand10_mw": 8361.544692,
+"demand50_mw": 8094.864322,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-31",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3583.0,
+"demand10_mw": 2193.531419,
+"demand50_mw": 2122.668914,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-31",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 2088.0,
+"demand10_mw": 1711.169133,
+"demand50_mw": 1672.507739,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-08-31",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10478.0,
+"demand10_mw": 7793.387634,
+"demand50_mw": 7471.627813,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-01",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 13933.0,
+"demand10_mw": 12472.2923,
+"demand50_mw": 11642.21831,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-01",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13674.0,
+"demand10_mw": 8582.807612,
+"demand50_mw": 8309.070355,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-01",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3367.0,
+"demand10_mw": 2405.513137,
+"demand50_mw": 2327.802516,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-01",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1880.0,
+"demand10_mw": 1760.319866,
+"demand50_mw": 1720.547981,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-01",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10806.0,
+"demand10_mw": 8348.646501,
+"demand50_mw": 8003.962119,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-02",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 13933.0,
+"demand10_mw": 12472.2923,
+"demand50_mw": 11642.21831,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-02",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13324.0,
+"demand10_mw": 8582.807612,
+"demand50_mw": 8309.070355,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-02",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3367.0,
+"demand10_mw": 2405.513137,
+"demand50_mw": 2327.802516,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-02",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1880.0,
+"demand10_mw": 1760.319866,
+"demand50_mw": 1720.547981,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-02",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10246.0,
+"demand10_mw": 8348.646501,
+"demand50_mw": 8003.962119,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-03",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 13933.0,
+"demand10_mw": 12472.2923,
+"demand50_mw": 11642.21831,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-03",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13324.0,
+"demand10_mw": 8582.807612,
+"demand50_mw": 8309.070355,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-03",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3367.0,
+"demand10_mw": 2405.513137,
+"demand50_mw": 2327.802516,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-03",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1880.0,
+"demand10_mw": 1760.319866,
+"demand50_mw": 1720.547981,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-03",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10246.0,
+"demand10_mw": 8348.646501,
+"demand50_mw": 8003.962119,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-04",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 13933.0,
+"demand10_mw": 11505.5447,
+"demand50_mw": 10739.81109,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-04",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13390.0,
+"demand10_mw": 8112.167127,
+"demand50_mw": 7853.440323,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-04",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3377.0,
+"demand10_mw": 2127.460155,
+"demand50_mw": 2058.732096,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-04",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1880.0,
+"demand10_mw": 1684.438081,
+"demand50_mw": 1646.380636,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-04",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10246.0,
+"demand10_mw": 7643.152915,
+"demand50_mw": 7327.595724,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-05",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 14283.0,
+"demand10_mw": 10748.21452,
+"demand50_mw": 10032.88384,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-05",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13528.0,
+"demand10_mw": 7691.527119,
+"demand50_mw": 7446.21607,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-05",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3377.0,
+"demand10_mw": 1988.69359,
+"demand50_mw": 1924.448415,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-05",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1880.0,
+"demand10_mw": 1608.341764,
+"demand50_mw": 1572.003605,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-05",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 9876.0,
+"demand10_mw": 6889.171596,
+"demand50_mw": 6604.743473,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-06",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 14283.0,
+"demand10_mw": 10753.37622,
+"demand50_mw": 10037.70201,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-06",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13528.0,
+"demand10_mw": 7918.541561,
+"demand50_mw": 7665.990187,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-06",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3394.0,
+"demand10_mw": 1922.301525,
+"demand50_mw": 1860.20116,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-06",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1880.0,
+"demand10_mw": 1631.278174,
+"demand50_mw": 1594.4218,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-06",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 9876.0,
+"demand10_mw": 6651.780893,
+"demand50_mw": 6377.153744,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-07",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 14283.0,
+"demand10_mw": 11733.07686,
+"demand50_mw": 10952.2002,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-07",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13528.0,
+"demand10_mw": 8450.497295,
+"demand50_mw": 8180.9799,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-07",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3394.0,
+"demand10_mw": 2105.790162,
+"demand50_mw": 2037.762157,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-07",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1880.0,
+"demand10_mw": 1711.169133,
+"demand50_mw": 1672.507739,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-07",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 9661.0,
+"demand10_mw": 7475.290179,
+"demand50_mw": 7166.663413,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-08",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 14283.0,
+"demand10_mw": 12345.02402,
+"demand50_mw": 11523.42016,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-08",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13528.0,
+"demand10_mw": 8674.114076,
+"demand50_mw": 8397.46472,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-08",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3384.0,
+"demand10_mw": 2309.292612,
+"demand50_mw": 2234.690416,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-08",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1880.0,
+"demand10_mw": 1760.319866,
+"demand50_mw": 1720.547981,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-08",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 9973.0,
+"demand10_mw": 8007.885419,
+"demand50_mw": 7677.269788,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-09",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 14283.0,
+"demand10_mw": 12345.02402,
+"demand50_mw": 11523.42016,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-09",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13528.0,
+"demand10_mw": 8674.114076,
+"demand50_mw": 8397.46472,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-09",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3384.0,
+"demand10_mw": 2309.292612,
+"demand50_mw": 2234.690416,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-09",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1880.0,
+"demand10_mw": 1760.319866,
+"demand50_mw": 1720.547981,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-09",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10020.0,
+"demand10_mw": 8007.885419,
+"demand50_mw": 7677.269788,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-10",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 14283.0,
+"demand10_mw": 12345.02402,
+"demand50_mw": 11523.42016,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-10",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13528.0,
+"demand10_mw": 8674.114076,
+"demand50_mw": 8397.46472,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-10",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3384.0,
+"demand10_mw": 2309.292612,
+"demand50_mw": 2234.690416,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-10",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1880.0,
+"demand10_mw": 1760.319866,
+"demand50_mw": 1720.547981,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-10",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10020.0,
+"demand10_mw": 8007.885419,
+"demand50_mw": 7677.269788,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-11",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 14283.0,
+"demand10_mw": 11388.14118,
+"demand50_mw": 10630.22118,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-11",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13093.0,
+"demand10_mw": 8198.466778,
+"demand50_mw": 7936.987561,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-11",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3394.0,
+"demand10_mw": 2042.361749,
+"demand50_mw": 1976.382812,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-11",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1880.0,
+"demand10_mw": 1684.438081,
+"demand50_mw": 1646.380636,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-11",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10630.0,
+"demand10_mw": 7331.18749,
+"demand50_mw": 7028.510185,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-12",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 13940.0,
+"demand10_mw": 10638.53886,
+"demand50_mw": 9930.507471,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-12",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13093.0,
+"demand10_mw": 7773.351875,
+"demand50_mw": 7525.431134,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-12",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3411.0,
+"demand10_mw": 1909.145846,
+"demand50_mw": 1847.470478,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-12",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1880.0,
+"demand10_mw": 1608.341764,
+"demand50_mw": 1572.003605,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-12",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 11000.0,
+"demand10_mw": 6607.980919,
+"demand50_mw": 6335.162107,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-13",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 13940.0,
+"demand10_mw": 10753.37622,
+"demand50_mw": 10037.70201,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-13",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13093.0,
+"demand10_mw": 8001.89463,
+"demand50_mw": 7746.684821,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-13",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3377.0,
+"demand10_mw": 1942.325499,
+"demand50_mw": 1879.578255,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-13",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1880.0,
+"demand10_mw": 1614.632479,
+"demand50_mw": 1578.15219,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-13",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10950.0,
+"demand10_mw": 6722.544519,
+"demand50_mw": 6444.995805,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-14",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "NSW1",
+"pasa_availability_mw": 13920.0,
+"demand10_mw": 11733.07686,
+"demand50_mw": 10952.2002,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-14",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "QLD1",
+"pasa_availability_mw": 13060.0,
+"demand10_mw": 8539.449899,
+"demand50_mw": 8267.095478,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-14",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "SA1",
+"pasa_availability_mw": 3367.0,
+"demand10_mw": 2127.725477,
+"demand50_mw": 2058.988846,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-14",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "TAS1",
+"pasa_availability_mw": 1880.0,
+"demand10_mw": 1693.708224,
+"demand50_mw": 1655.441333,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+},
+{
+"valid_date": "2026-09-14",
+"publish_time_utc": "2026-06-16T08:00:00+00:00",
+"region_id": "VIC1",
+"pasa_availability_mw": 10910.0,
+"demand10_mw": 7554.814543,
+"demand50_mw": 7242.904513,
+"confidence_tier": "TIER_A_AUTHORITATIVE"
+}
+]
+}
