@@ -1,29 +1,46 @@
-# voltsignal-weather
+# voltsignal-weather — public exogenous data pullers
 
-Public, generic weather feature puller for VoltSignal. **No secrets, no app/model edge code** — just:
-fetch Open-Meteo forecast-vintage data for the 5 NEM regions, derive documented features
-(temp/cdd/hdd, wind_speed_100m/wind_power_proxy/low_wind_flag, ghi/solar_proxy — `features.py`, kept
-byte-identical to the app), and UPSERT vintage-keyed rows into `weather_features`.
+Standalone, **no-secret** pullers for the VoltSignal NEM analytics platform. Each puller runs on a GitHub
+Actions runner (unlimited minutes, never the app box), fetches a **public** upstream (NEMWeb, Open-Meteo,
+CER, Snowy/Hydro Tas), derives only **standard/textbook** features, and **commits a thin JSON artifact**
+to `exo/data/<feed>.json` via the automatic `GITHUB_TOKEN`. Nothing here writes a database and nothing
+here holds a secret.
 
-Data is public weather (CC-BY Open-Meteo) + textbook transforms. The proprietary edge stays in the
-private app repo.
+## Design (publish-and-ingest, zero secrets)
 
-## How it works
-- **Schedule:** `.github/workflows/pull.yml` cron at 05:20/11:20/17:20/23:20 UTC — after each Open-Meteo
-  global run (init 00/06/12/18 UTC, available ~init+4–6h) becomes available.
-- **Vintage keys:** every row carries `valid_time / issue_time / publish_time / lead_time`.
-- **publish_time = issue + PUBLISH_LATENCY_HOURS** (default 5h, the verified realistic Open-Meteo
-  global-model availability). This is the downstream **leakage guard** input — it reflects when a forecast
-  was *actually available*, never nominal init.
-- **Idempotent:** `ON CONFLICT ... DO UPDATE` upsert — re-runs never duplicate.
-- **Graceful failure:** a region that fails to fetch/parse is logged and skipped — never written stale-as-fresh.
+```
+public source ──(Action: fetch+parse+derive)──► exo/data/<feed>.json ──commit via GITHUB_TOKEN──► this repo
+                                                                                │ raw.githubusercontent.com (public)
+                                                  the VoltSignal box ingests ◄──┘  and upserts via its own creds
+```
 
-## Credential (scoped, write-only)
-`WEATHER_DB_URL` (GitHub Secret) connects as a least-privilege Supabase role with **INSERT/UPDATE on
-`weather_features` only** — no read of any other table. A leak is containable to the one table.
+- **No DB writes here.** The app box pulls each latest `exo/data/*.json` over `raw.githubusercontent.com`
+  (public read, no auth) and upserts into its own Postgres using its own existing credentials.
+- **No secrets.** The only "auth" is the workflow's automatic `GITHUB_TOKEN` (Settings → Actions → Workflow
+  permissions → *Read and write*), used solely to commit the JSON files.
+- **No private code.** Pullers are self-contained (stdlib `urllib` + `certifi`, `xlrd` for the Hydro Tas
+  xls); `features.py` is vendored **byte-identical** from the app so published features match the app exactly.
+- **Leakage-safe vintages.** Forecast feeds carry `valid_time / issue_time / publish_time`; `publish_time`
+  reflects when the data was *actually* available (never nominal init) — the downstream leakage guard.
 
-## Run locally (off-box)
+## Feeds (`exo/<feed>_pull.py` → `exo/data/<feed>.json`)
+
+| feed | upstream | cadence |
+|---|---|---|
+| gas | NEMWeb STTM + GSH benchmark | daily |
+| pasa | NEMWeb MTPASA region availability | 6-hourly |
+| hydro | Snowy `getData.php` + Hydro Tas TEIS xls | weekly |
+| der | CER small-scale postcode capacity | monthly |
+| battery | NEMWeb Next_Day_Dispatch (per-DUID raw) | daily T+1 |
+| bidstack | NEMWeb Bidmove_Complete (region supply curve) | daily T+1 |
+| weather | Open-Meteo previous-runs forecast vintages | ~6-hourly |
+
+Schedules + the file commit live in `.github/workflows/exo-pullers.yml`. `duid_region.json` /
+`battery_duids.json` are public AEMO registration maps used by the bidstack/battery pullers.
+
+## Run one locally
+
 ```
 pip install -r requirements.txt
-WEATHER_DB_URL='postgresql://weather_writer:...@<pooler-host>:6543/postgres' python pull.py
+python exo/gas_pull.py        # writes exo/data/gas.json — no DB, no secret
 ```
