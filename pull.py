@@ -106,7 +106,8 @@ DO UPDATE SET value = EXCLUDED.value, publish_time_utc = EXCLUDED.publish_time_u
 async def main() -> int:
     dsn = os.environ["WEATHER_DB_URL"]                 # scoped write-only credential (GitHub Secret)
     run_anchor = datetime.now(UTC).replace(hour=0, minute=0, second=0, microsecond=0)
-    conn = await asyncpg.connect(dsn)
+    # statement_cache_size=0 — required for Supabase's transaction pooler (Supavisor/pgbouncer)
+    conn = await asyncpg.connect(dsn, statement_cache_size=0)
     total, failed = 0, []
     try:
         for region, spec in REGIONS.items():
