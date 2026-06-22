@@ -1,31 +1,31 @@
 {
 "feed": "hydro",
-"generated_at_utc": "2026-06-16T16:32:51.700245+00:00",
+"generated_at_utc": "2026-06-22T21:39:05.313000+00:00",
 "rows": [
 {
-"reading_date": "2026-06-16",
+"reading_date": "2026-06-23",
 "system": "SNOWY",
 "region_id": "NSW1",
-"storage_pct": 40.26,
+"storage_pct": 40.35,
 "components": {
-"Lake Eucumbene": 37.66,
-"Lake Jindabyne": 69.7,
-"Tantangara Reservoir": 9.69
+"Lake Eucumbene": 37.52,
+"Lake Jindabyne": 71.22,
+"Tantangara Reservoir": 10.24
 },
-"publish_time_utc": "2026-06-15T21:00:01+00:00",
+"publish_time_utc": "2026-06-22T21:00:00+00:00",
 "source": "Snowy Hydro getData.php (per-lake %, capacity-weighted)",
 "confidence_tier": "TIER_B_SCRAPED_DERIVED"
 },
 {
-"reading_date": "2026-06-15",
+"reading_date": "2026-06-22",
 "system": "HYDRO_TAS",
 "region_id": "TAS1",
-"storage_pct": 41.28,
+"storage_pct": 42.45,
 "components": {
-"teis_gwh": 5977.9,
+"teis_gwh": 6147.4,
 "full_supply_gwh": 14482.4
 },
-"publish_time_utc": "2026-06-16T00:00:00+00:00",
+"publish_time_utc": "2026-06-23T00:00:00+00:00",
 "source": "Hydro Tasmania EnergyInStorage-HistoricalData.xls (TEIS)",
 "confidence_tier": "TIER_A_AUTHORITATIVE"
 }
