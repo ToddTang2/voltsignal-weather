@@ -1,6 +1,6 @@
 {
 "feed": "weather",
-"generated_at_utc": "2026-06-23T08:41:13.063535+00:00",
+"generated_at_utc": "2026-06-23T13:57:46.949986+00:00",
 "model": "openmeteo_best_match",
 "publish_latency_hours": 5,
 "rows": [
