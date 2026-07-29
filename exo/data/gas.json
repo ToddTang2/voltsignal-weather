@@ -1,9 +1,36 @@
 {
 "feed": "gas",
-"generated_at_utc": "2026-07-28T20:16:03.334981+00:00",
+"generated_at_utc": "2026-07-29T20:12:54.798460+00:00",
 "confidence_tier": "TIER_A_AUTHORITATIVE",
 "heat_rate_gj_per_mwh": 8.2,
 "rows": [
+{
+"gas_date": "2026-07-30",
+"hub": "ADL",
+"source": "STTM_EX_ANTE",
+"price_gj": 12.14,
+"publish_time_utc": "2026-07-29T01:31:19+00:00",
+"region_id": "SA1",
+"gas_implied_price_mwh": 99.55
+},
+{
+"gas_date": "2026-07-30",
+"hub": "BRI",
+"source": "STTM_EX_ANTE",
+"price_gj": 13.2172,
+"publish_time_utc": "2026-07-29T01:31:19+00:00",
+"region_id": "QLD1",
+"gas_implied_price_mwh": 108.38
+},
+{
+"gas_date": "2026-07-30",
+"hub": "SYD",
+"source": "STTM_EX_ANTE",
+"price_gj": 11.8552,
+"publish_time_utc": "2026-07-29T01:30:56+00:00",
+"region_id": "NSW1",
+"gas_implied_price_mwh": 97.21
+},
 {
 "gas_date": "2026-07-29",
 "hub": "ADL",
@@ -167,31 +194,49 @@
 "gas_implied_price_mwh": 92.0
 },
 {
-"gas_date": "2026-07-23",
-"hub": "ADL",
-"source": "STTM_EX_ANTE",
-"price_gj": 11.39,
-"publish_time_utc": "2026-07-22T01:31:11+00:00",
-"region_id": "SA1",
-"gas_implied_price_mwh": 93.4
+"gas_date": "2026-07-30",
+"hub": "WIL",
+"source": "GSH_BENCHMARK",
+"price_gj": 11.9,
+"publish_time_utc": "2026-07-29T09:30:08+00:00",
+"region_id": null,
+"gas_implied_price_mwh": 97.58
 },
 {
-"gas_date": "2026-07-23",
-"hub": "BRI",
-"source": "STTM_EX_ANTE",
-"price_gj": 11.3025,
-"publish_time_utc": "2026-07-22T01:31:36+00:00",
-"region_id": "QLD1",
-"gas_implied_price_mwh": 92.68
+"gas_date": "2026-07-30",
+"hub": "WAL",
+"source": "GSH_BENCHMARK",
+"price_gj": 11.5,
+"publish_time_utc": "2026-07-29T09:30:08+00:00",
+"region_id": null,
+"gas_implied_price_mwh": 94.3
 },
 {
-"gas_date": "2026-07-23",
-"hub": "SYD",
-"source": "STTM_EX_ANTE",
-"price_gj": 11.0,
-"publish_time_utc": "2026-07-22T01:30:52+00:00",
-"region_id": "NSW1",
-"gas_implied_price_mwh": 90.2
+"gas_date": "2026-07-30",
+"hub": "SEQ",
+"source": "GSH_BENCHMARK",
+"price_gj": 11.5,
+"publish_time_utc": "2026-07-29T09:30:08+00:00",
+"region_id": null,
+"gas_implied_price_mwh": 94.3
+},
+{
+"gas_date": "2026-07-30",
+"hub": "MOOMBA",
+"source": "GSH_BENCHMARK",
+"price_gj": 11.9,
+"publish_time_utc": "2026-07-29T09:30:08+00:00",
+"region_id": null,
+"gas_implied_price_mwh": 97.58
+},
+{
+"gas_date": "2026-07-30",
+"hub": "CUL",
+"source": "GSH_BENCHMARK",
+"price_gj": 13.5,
+"publish_time_utc": "2026-07-29T09:30:08+00:00",
+"region_id": null,
+"gas_implied_price_mwh": 110.7
 },
 {
 "gas_date": "2026-07-29",
@@ -865,51 +910,6 @@
 "source": "GSH_BENCHMARK",
 "price_gj": 13.5,
 "publish_time_utc": "2026-07-14T09:30:00+00:00",
-"region_id": null,
-"gas_implied_price_mwh": 110.7
-},
-{
-"gas_date": "2026-07-14",
-"hub": "WIL",
-"source": "GSH_BENCHMARK",
-"price_gj": 11.9,
-"publish_time_utc": "2026-07-13T09:30:02+00:00",
-"region_id": null,
-"gas_implied_price_mwh": 97.58
-},
-{
-"gas_date": "2026-07-14",
-"hub": "WAL",
-"source": "GSH_BENCHMARK",
-"price_gj": 11.36,
-"publish_time_utc": "2026-07-13T09:30:02+00:00",
-"region_id": null,
-"gas_implied_price_mwh": 93.15
-},
-{
-"gas_date": "2026-07-14",
-"hub": "SEQ",
-"source": "GSH_BENCHMARK",
-"price_gj": 4.38,
-"publish_time_utc": "2026-07-13T09:30:02+00:00",
-"region_id": null,
-"gas_implied_price_mwh": 35.92
-},
-{
-"gas_date": "2026-07-14",
-"hub": "MOOMBA",
-"source": "GSH_BENCHMARK",
-"price_gj": 11.9,
-"publish_time_utc": "2026-07-13T09:30:02+00:00",
-"region_id": null,
-"gas_implied_price_mwh": 97.58
-},
-{
-"gas_date": "2026-07-14",
-"hub": "CUL",
-"source": "GSH_BENCHMARK",
-"price_gj": 13.5,
-"publish_time_utc": "2026-07-13T09:30:02+00:00",
 "region_id": null,
 "gas_implied_price_mwh": 110.7
 }
